@@ -1,0 +1,32 @@
+{
+  "name": "codex-local-plus",
+  "version": "0.2.0",
+  "description": "Local launcher and injector for Codex desktop on Windows.",
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": {
+    "clp": "bin/codex-local-plus.js",
+    "codex-plus": "bin/codex-local-plus.js",
+    "codex-local-plus": "bin/codex-local-plus.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "scripts/",
+    "start-codex-local-plus.ps1",
+    "inject.js",
+    "vendor/",
+    "README.md"
+  ],
+  "scripts": {
+    "doctor": "node bin/codex-local-plus.js doctor",
+    "dry-run": "node bin/codex-local-plus.js --dry-run",
+    "pack:check": "npm pack --dry-run"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "os": [
+    "win32"
+  ]
+}

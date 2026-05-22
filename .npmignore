@@ -1,0 +1,10 @@
+runtime/
+node_modules/
+*.tgz
+*.log
+*.tmp
+.env
+.git/
+.claude/
+.DS_Store
+Thumbs.db
