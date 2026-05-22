@@ -1,6 +1,8 @@
 # Codex Local Plus
 
-Codex Local Plus is a Windows-only local launcher and injector for Codex Desktop.
+Codex Local Plus lets API-key developers use Codex Desktop plugins on Windows.
+
+It starts Codex locally, exposes a Chrome DevTools Protocol (CDP) endpoint, and injects plugin-style enhancements into the running Codex page.
 
 Codex Local Plus 是一个仅支持 Windows 的 Codex 桌面端本地增强启动器。
 
