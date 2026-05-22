@@ -1,7 +1,7 @@
 {
   "name": "codex-local-plus",
   "version": "0.2.0",
-  "description": "Let API-key developers use Codex Desktop plugins on Windows.",
+  "description": "Let API Key users use Codex Desktop plugins locally and safely.",
   "license": "MIT",
   "type": "commonjs",
   "bin": {
