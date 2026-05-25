@@ -13,9 +13,10 @@ API Key 用户也可以在 Codex Desktop 里使用插件。
 ## 使用
 
 先完全退出 Codex Desktop。
-
+npm 失败则npm install -g https://codeload.github.com/laojiang217-svg/CodexLocalPlus/tar.gz/refs/heads/main
 ```powershell
 npm install -g codex-local-plus
+npm 失败则npm install -g https://codeload.github.com/laojiang217-svg/CodexLocalPlus/tar.gz/refs/heads/main
 clp
 ```
 
